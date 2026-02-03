@@ -135,4 +135,4 @@ This guide covers:
 - SSH access
 - Terraform‑based EC2 automation
 
-Save this file as **README.md** and push it to your GitHub repository.
+
