@@ -38,7 +38,7 @@ Follow these exact steps in the AWS Console to launch a Free Tier server.
 
 1.  **Login:** Go to the [AWS Management Console](https://aws.amazon.com/console/) and search for **EC2**.
 2.  **Launch:** Click the orange **Launch Instance** button.
-3.  **Name:** Under "Name and tags", give it a name (e.g., `My-DevOps-Server`).
+3.  **Name:** Under "Name and tags", give it a name (e.g., `Manual-Server`).
 4.  **Choose OS (AMI):** Select **Amazon Linux** (or Ubuntu if you prefer). Ensure it says "Free tier eligible".
 5.  **Instance Type:** Select **t2.micro** (or t3.micro). This gives you 1 vCPU and 1 GB RAM.
 6.  **Key Pair (Crucial):**
